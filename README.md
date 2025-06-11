@@ -128,3 +128,5 @@ To access these markets, you *must* use their specific onion URLs.  Always verif
 Darknet markets offer a venue for private transactions.  By embracing strong security practices (verifying URLs, using encryption), utilizing escrow, and being wary of scams, you can navigate them safely. Knowledge is your best defense. Stay informed, stay secure, and enjoy a safer experience.
 
 Plase contribute and add stars to this repo.
+
+Update:  06/11/2025 10-59
