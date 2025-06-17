@@ -133,4 +133,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  16.06.2025 05:19 url is now accessible and operational
+
+
+Update: Redirect loops
